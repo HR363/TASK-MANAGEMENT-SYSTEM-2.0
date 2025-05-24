@@ -1,4 +1,4 @@
-#  User and Task Management System
+#  Task Management System
 
 This is a simple yet powerful browser-based application built with **TypeScript**, **HTML**, and **CSS**, designed to help manage users and tasks efficiently.
 
